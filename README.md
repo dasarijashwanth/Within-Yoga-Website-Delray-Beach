@@ -4,7 +4,7 @@
 **Within Yoga** is a modern, user-friendly yoga studio website designed to provide an engaging and seamless experience. It incorporates smooth animations, dynamic backgrounds, and interactive features, allowing users to **book yoga sessions**, **explore services**, and **learn about the studio's philosophy**. This project uses the latest web technologies to ensure an intuitive, responsive, and visually appealing experience across devices.
  
 The website is built to reflect the calm and centered nature of yoga, with an emphasis on ease of use and aesthetic value.
-
+ 
 ## Features  
 - **Book a Slot**:  
   Users can easily schedule and secure a yoga session based on availability. The booking system provides a simple interface for users to select the date, time, and class type.
